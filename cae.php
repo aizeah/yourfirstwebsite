@@ -17,6 +17,7 @@
 </table>
 </center>
 <hr>
+<center>
 <font color=lightpink>
 <h1 align =center>CAE PERFORMANCE TASK</h1>
 <font color=beige>
