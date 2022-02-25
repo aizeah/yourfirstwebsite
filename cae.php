@@ -30,5 +30,6 @@
 <img src="cae7.jpg"  border=5 height=400>
 <img src="cae8.jpg"  border=5 height=400>
 <img src="cae9.jpg"  border=5 height=400>
+</center>
 </body>
 </html>
