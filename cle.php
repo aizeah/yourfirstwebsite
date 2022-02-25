@@ -17,6 +17,7 @@
 </table>
 </center>
 <hr>
+<center>
 <font color=lightpink>
 <h1 align =center>CLE PERFORMANCE TASK</h1>
 <font color=beige>
@@ -31,5 +32,6 @@
 <img src="cle9.jpg" border=5 height=400>
 <img src="cle10.jpg" border=5 height=400>
 <img src="cle11.jpg" border=5 height=400>
+</center>
 </body>
 </html>
