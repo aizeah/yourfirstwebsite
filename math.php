@@ -10,10 +10,10 @@
 <hr>
 <center>
 <table border=5 bgcolor=lightblue width=80%>
-<th><a href="home.html" >HOME</a></th>
-<th><a href="cle.html" >CLE</a></th>
-<th><a href="cae.html" >CAE</a></th>
-<th><a href="members.html" >MEMBERS</a></th>
+<th><a href="home.php" >HOME</a></th>
+<th><a href="cle.php" >CLE</a></th>
+<th><a href="cae.php" >CAE</a></th>
+<th><a href="members.php" >MEMBERS</a></th>
 </table>
 </center>
 <hr>
