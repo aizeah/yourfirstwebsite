@@ -17,6 +17,7 @@
 </table>
 </center>
 <hr>
+<center>
 <font color=lightpink>
 <h1 align =center>GROUP 7 MEMBERS</h1>
 <ul>
@@ -32,5 +33,6 @@
 <img src="0aa52096749fc9bf18a708ccd21cf565.jpg" width=20% length=20%>
 <li><strong>Rinald Lanaria</li></strong>
 <img src="b2931db6aee04a75bebad22bcb6e90ef.jpg" width=20% length=20%>
+</center>
 </body>
 </html>
