@@ -19,16 +19,17 @@
 <hr>
 <font color=lightpink>
 <h1 align =center>CLE PERFORMANCE TASK</h1>
-<img src="cle1.jpg">
-<img src="cle2.jpg">
-<img src="cle3.jpg">
-<img src="cle4.jpg">
-<img src="cle5.jpg">
-<img src="cle6.jpg">
-<img src="cle7.jpg">
-<img src="cle8.jpg">
-<img src="cle9.jpg">
-<img src="cle10.jpg">
-<img src="cle11.jpg">
+<font color=beige>
+<img src="cle1.jpg" border=5 height=400>
+<img src="cle2.jpg" border=5 height=400>
+<img src="cle3.jpg" border=5 height=400>
+<img src="cle4.jpg" border=5 height=400>
+<img src="cle5.jpg" border=5 height=400>
+<img src="cle6.jpg" border=5 height=400>
+<img src="cle7.jpg" border=5 height=400>
+<img src="cle8.jpg" border=5 height=400>
+<img src="cle9.jpg" border=5 height=400>
+<img src="cle10.jpg" border=5 height=400>
+<img src="cle11.jpg" border=5 height=400>
 </body>
 </html>
