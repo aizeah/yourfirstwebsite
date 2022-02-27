@@ -32,6 +32,7 @@
 <img src="cle9.jpg" border=5 height=400>
 <img src="cle10.jpg" border=5 height=400>
 <img src="cle11.jpg" border=5 height=400>
+<img src="cle12.jpg" border=5 height=400>
 </center>
 </body>
 </html>
